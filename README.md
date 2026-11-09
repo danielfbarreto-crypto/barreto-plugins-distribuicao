@@ -1,6 +1,6 @@
 # Barreto Engenharia | Central dos projetistas
 
-**Plugins para Revit 2025 / pyRevit · acesso privado · instalação e manuais**
+**Plugins para Revit 2025 / pyRevit · acesso público para consulta e download · instalação e manuais**
 
 Escolha o plugin abaixo. Cada página reúne apresentação, versão disponível, instalação e guias. Não é necessário instalar Git nem conhecer programação.
 
@@ -30,7 +30,7 @@ Escolha o plugin abaixo. Cada página reúne apresentação, versão disponível
 
 ## Acesso e versões
 
-O responsável concede acesso individual à central. Ter acesso ao GitHub não substitui a autorização de uso do plugin pela rede/VPN Barreto. Uma publicação não atualiza os computadores automaticamente: baixe e instale a versão indicada.
+Desde 09/11/2026, esta central é pública: qualquer pessoa pode consultar os manuais e baixar os pacotes, sem convite. Isso não concede permissão para alterar os arquivos oficiais nem substitui a autorização de uso do plugin pela rede/VPN Barreto. Uma publicação não atualiza os computadores automaticamente: baixe e instale a versão indicada.
 
 **Homologação** significa teste controlado antes da liberação geral. **Liberada** será usada somente após aprovação expressa e conferência. Uma versão de plugin não substitui a de outro; sempre consulte seu catálogo.
 

@@ -6,7 +6,7 @@ Antes de reinstalar, confira a versão do pacote, Revit 2025, pyRevit, conexão 
 
 Para informar um problema, abra **Issues → New issue** nesta central. Informe plugin, botão, versão, o que tentou fazer, resultado esperado e mensagem completa do erro. Inclua imagem somente da área necessária; não publique senhas, arquivos de autorização ou dados de clientes.
 
-- **Página não encontrada no GitHub:** confira se entrou na conta autorizada e aceitou o convite. Peça ao responsável o acesso a esta central.
+- **Página não encontrada no GitHub:** a central é pública e não exige convite para consulta. Confira o endereço e informe o link com erro ao responsável.
 - **Feche o Revit:** trate seus trabalhos, feche o Revit normalmente e tente novamente. O instalador não encerra o programa por você.
 - **Botão não aparece:** confirme o pacote instalado e a ausência de duas extensões BE-ACE. Encaminhe a mensagem do instalador ao suporte.
 - **Autorização negada:** confira rede/VPN e validade do piloto com o responsável. Não altere o validador.

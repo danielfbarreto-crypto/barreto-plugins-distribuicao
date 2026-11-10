@@ -6,10 +6,10 @@
     "2025"
   ],
   "runtime": "pyRevit",
-  "release": "https://github.com/danielfbarreto-crypto/barreto-plugins-distribuicao/releases/tag/BE-ACE-2026.11.08.1-rc1",
-  "archive": "BE-ACE-Revit-2025-2026.11.08.1-rc1.zip",
-  "sha256": "ece8c3f438e4b789b8f4fb94883c91000d74fdda93465f188f98a8e736574d3d",
-  "bytes": 6193360,
+  "release": "https://github.com/danielfbarreto-crypto/barreto-plugins-distribuicao/releases/tag/BE-ACE-V01",
+  "archive": "BE-ACE-V01.zip",
+  "sha256": "70a78e0f204cf60fcf333ea020c8a2aa08f45d4474f6937f3ef995f0da0ca1ac",
+  "bytes": 6193755,
   "source_commit": "d44859849af736253e7b408236fb00770bfa31bb",
   "pilot_expires": "2026-11-22T00:07:33-03:00",
   "pending": [
@@ -25,5 +25,9 @@
     "Tabela Piso Tátil",
     "Limpar Arquivo",
     "Exportar PDF e DWG"
-  ]
+  ],
+  "public_version": "V01",
+  "installer_revision": "2026.11.10.1",
+  "installation_approved": "2026-11-10",
+  "source_commit_note": "source_commit identifica a base funcional; revisão local do instalador 2026.11.10.1 e nomenclatura V01 registradas no pacote"
 }

@@ -13,14 +13,14 @@
 
 ## Atualizações
 
-Na V01, o instalador substitui integralmente a pasta BE-ACE.extension. Painéis antigos deixam de ficar ativos; a instalação anterior fica em BE-ACE-Backups, ao lado de Extensions. Outros plugins são preservados e uma falha de ativação restaura a versão anterior.
+Na V02, o instalador substitui integralmente a pasta BE-ACE.extension. Painéis antigos deixam de ficar ativos; a instalação anterior fica em BE-ACE-Backups, ao lado de Extensions. Outros plugins são preservados e uma falha de ativação restaura a versão anterior.
 
 
 A publicação no GitHub não altera a instalação automaticamente. Repita o procedimento com a versão indicada pelo responsável. Não misture arquivos de pacotes diferentes. Instalar a homologação substitui a cópia BE-ACE daquele usuário; use-a somente no teste combinado.
 
 ## Homologação BE-ACE atual
 
-[BE-ACE — V01](https://github.com/danielfbarreto-crypto/barreto-plugins-distribuicao/releases/tag/BE-ACE-V01) · piloto válido até **22/11/2026 às 00:07:33 (Brasília)**. Após o prazo, os botões bloqueiam até renovação administrativa. A validação física pela VPN externa e desconectado ainda está pendente.
+[BE-ACE — V02](https://github.com/danielfbarreto-crypto/barreto-plugins-distribuicao/releases/tag/BE-ACE-V02) · piloto válido até **22/11/2026 às 00:07:33 (Brasília)**. Após o prazo, os botões bloqueiam até renovação administrativa. A validação física pela VPN externa e desconectado ainda está pendente.
 
 As famílias RFA não estão no ZIP. Use a base corporativa de acessibilidade e as famílias oficiais **BE-ACE-PISO TÁTIL-ALERTA** e **BE-ACE-PISO TÁTIL-DIRECIONAL**, categoria **Equipamento especial**. Projetos com famílias antigas exigem recarga e conferência da categoria, conforme os manuais.
 

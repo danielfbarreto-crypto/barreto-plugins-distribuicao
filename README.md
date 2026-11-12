@@ -4,13 +4,13 @@
 
 Escolha o plugin abaixo. Cada página reúne apresentação, versão disponível, instalação e guias. Não é necessário instalar Git nem conhecer programação.
 
-> **Status em 10/11/2026:** BE-ACE disponível para homologação. Os demais plugins estão cadastrados e aguardam conferência e publicação de seus próprios pacotes. Nenhum pacote desta central está anunciado como liberação geral neste momento.
+> **Status em 12/11/2026:** BE-ACE disponível para homologação. Os demais plugins estão cadastrados e aguardam conferência e publicação de seus próprios pacotes. Nenhum pacote desta central está anunciado como liberação geral neste momento.
 
 ## Escolha seu plugin
 
 | Plugin | Situação nesta central | Acesso |
 |---|---|---|
-| **Acessibilidade — BE-ACE** | **V01 · instalador corrigido** | [Conhecer os oito botões e baixar](plugins/BE-ACE/README.md) |
+| **Acessibilidade — BE-ACE** | **V02 · correção DWG** | [Conhecer os oito botões e baixar](plugins/BE-ACE/README.md) |
 | Template | Aguardando publicação | [Ver situação](plugins/template/README.md) |
 | Família | Aguardando publicação | [Ver situação](plugins/familia/README.md) |
 | Topografia | Aguardando publicação | [Ver situação](plugins/topografia/README.md) |

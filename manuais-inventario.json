@@ -1,81 +1,81 @@
 [
   {
-    "path": "plugins/BE-ACE/manuais/A4/Guia - Exportar PDF e DWG - V01 - A4.pdf",
+    "path": "plugins/BE-ACE/manuais/A4/Guia - Exportar PDF e DWG - V02 - A4.pdf",
     "sha256": "f91fcfd8b7866f77444550f230621d322fb84fe7b17f1767cce8964ae3f9de22",
     "bytes": 186150
   },
   {
-    "path": "plugins/BE-ACE/manuais/A4/Guia - Limpar Arquivo - V01 - A4.pdf",
+    "path": "plugins/BE-ACE/manuais/A4/Guia - Limpar Arquivo - V02 - A4.pdf",
     "sha256": "6bfcfbef2d96bd1579d5228ea44944c3b227a0c2fe60d7a9d69e5cd62a2365d1",
     "bytes": 136298
   },
   {
-    "path": "plugins/BE-ACE/manuais/A4/Guia - Piso Alerta Elevador - V01 - A4.pdf",
+    "path": "plugins/BE-ACE/manuais/A4/Guia - Piso Alerta Elevador - V02 - A4.pdf",
     "sha256": "b3006e973153895e9147cc5c8aff8921d8cf63a0ac6b66d078a2b658d01aff26",
     "bytes": 212383
   },
   {
-    "path": "plugins/BE-ACE/manuais/A4/Guia - Piso Alerta Escada - V01 - A4.pdf",
+    "path": "plugins/BE-ACE/manuais/A4/Guia - Piso Alerta Escada - V02 - A4.pdf",
     "sha256": "6286cea741a9fb1170ce8da68121ae1ad2f9e35d4fda760b75b759d0a4fb1c30",
     "bytes": 216729
   },
   {
-    "path": "plugins/BE-ACE/manuais/A4/Guia - Piso Alerta Porta - V01 - A4.pdf",
+    "path": "plugins/BE-ACE/manuais/A4/Guia - Piso Alerta Porta - V02 - A4.pdf",
     "sha256": "a87e7db1f81772a7f43cb51c785b14f0539cb1722888d8841640915ad8ffb5c2",
     "bytes": 216405
   },
   {
-    "path": "plugins/BE-ACE/manuais/A4/Guia - Rota Acessível - V01 - A4.pdf",
+    "path": "plugins/BE-ACE/manuais/A4/Guia - Rota Acessível - V02 - A4.pdf",
     "sha256": "925099e9ab3eeeeae805bf53e023826a7d37d2865a8c6c9a68fbc25e3a137e72",
     "bytes": 222497
   },
   {
-    "path": "plugins/BE-ACE/manuais/A4/Guia - Tabela Piso Tátil - V01 - A4.pdf",
+    "path": "plugins/BE-ACE/manuais/A4/Guia - Tabela Piso Tátil - V02 - A4.pdf",
     "sha256": "9557822c8c50eb25d5881c0d612c511f6d5fcc52f7063f865daae4059d9b559b",
     "bytes": 161377
   },
   {
-    "path": "plugins/BE-ACE/manuais/A4/Guia - Unir Alerta à Rota - V01 - A4.pdf",
+    "path": "plugins/BE-ACE/manuais/A4/Guia - Unir Alerta à Rota - V02 - A4.pdf",
     "sha256": "200f78ada268155ba44bbc02c4858c9b3790b01d142577c083a0c0f8bf842e65",
     "bytes": 295701
   },
   {
-    "path": "plugins/BE-ACE/manuais/Mobile/Guia - Exportar PDF e DWG - V01 - Mobile.pdf",
+    "path": "plugins/BE-ACE/manuais/Mobile/Guia - Exportar PDF e DWG - V02 - Mobile.pdf",
     "sha256": "b20c23bb98222d27a6825af380cd4382f62e2cc6d923557e3729770ede7e92bd",
     "bytes": 185912
   },
   {
-    "path": "plugins/BE-ACE/manuais/Mobile/Guia - Limpar Arquivo - V01 - Mobile.pdf",
+    "path": "plugins/BE-ACE/manuais/Mobile/Guia - Limpar Arquivo - V02 - Mobile.pdf",
     "sha256": "5a658a3631c61794b7e78bfda773a2dcdb8d540d3591734aeae7f746799b471d",
     "bytes": 136141
   },
   {
-    "path": "plugins/BE-ACE/manuais/Mobile/Guia - Piso Alerta Elevador - V01 - Mobile.pdf",
+    "path": "plugins/BE-ACE/manuais/Mobile/Guia - Piso Alerta Elevador - V02 - Mobile.pdf",
     "sha256": "5e6aadaddcf11eca9478cc0f8eedab5cb88d91377acc0fe2a677ae52a0d014f4",
     "bytes": 212072
   },
   {
-    "path": "plugins/BE-ACE/manuais/Mobile/Guia - Piso Alerta Escada - V01 - Mobile.pdf",
+    "path": "plugins/BE-ACE/manuais/Mobile/Guia - Piso Alerta Escada - V02 - Mobile.pdf",
     "sha256": "b23ff9e1bb5d6c19767759fbcc654e809f039fcda96eb546fce7493389bf6db5",
     "bytes": 216436
   },
   {
-    "path": "plugins/BE-ACE/manuais/Mobile/Guia - Piso Alerta Porta - V01 - Mobile.pdf",
+    "path": "plugins/BE-ACE/manuais/Mobile/Guia - Piso Alerta Porta - V02 - Mobile.pdf",
     "sha256": "4a1127a6329d74874a3980fbeda8700cd63e388acdbcbf88268ef8353ac6a986",
     "bytes": 216088
   },
   {
-    "path": "plugins/BE-ACE/manuais/Mobile/Guia - Rota Acessível - V01 - Mobile.pdf",
+    "path": "plugins/BE-ACE/manuais/Mobile/Guia - Rota Acessível - V02 - Mobile.pdf",
     "sha256": "3d56a60984a6092323d5724c75dc97189f1da84a96559ed243a69e93780c397a",
     "bytes": 222295
   },
   {
-    "path": "plugins/BE-ACE/manuais/Mobile/Guia - Tabela Piso Tátil - V01 - Mobile.pdf",
+    "path": "plugins/BE-ACE/manuais/Mobile/Guia - Tabela Piso Tátil - V02 - Mobile.pdf",
     "sha256": "08143e0597acf625d91c10d916be7ce7817ff8f7e6273208b9dde071e3450954",
     "bytes": 161147
   },
   {
-    "path": "plugins/BE-ACE/manuais/Mobile/Guia - Unir Alerta à Rota - V01 - Mobile.pdf",
+    "path": "plugins/BE-ACE/manuais/Mobile/Guia - Unir Alerta à Rota - V02 - Mobile.pdf",
     "sha256": "9555937e2a81fc1437b4484afb793aa7b16c301cdfcba3a7f304c75c553f6cb5",
     "bytes": 295483
   }

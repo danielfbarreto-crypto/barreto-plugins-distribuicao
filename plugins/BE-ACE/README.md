@@ -6,15 +6,19 @@
 
 ## Distribuição disponível
 
-### [Baixar distribuição BE-ACE — V01](https://github.com/danielfbarreto-crypto/barreto-plugins-distribuicao/releases/tag/BE-ACE-V01)
+### [Baixar distribuição BE-ACE — V02](https://github.com/danielfbarreto-crypto/barreto-plugins-distribuicao/releases/tag/BE-ACE-V02)
 
-**HOMOLOGAÇÃO — teste controlado, sem liberação geral.** Em Assets, baixe **BE-ACE-V01.zip**. O pacote contém instalador BAT e os oito guias em A4/mobile, PDF/PPTX (32 arquivos).
+**HOMOLOGAÇÃO — teste controlado, sem liberação geral.** Em Assets, baixe **BE-ACE-V02.zip**. O pacote contém instalador BAT e os oito guias em A4/mobile, PDF/PPTX (32 arquivos).
 
 Autorização piloto até **22/11/2026 às 00:07:33 (Brasília)**; após o prazo, bloqueia até renovação administrativa. A conferência física na VPN externa e desconectado permanece pendente. O pacote não promove automaticamente a versão estável anterior.
 
 **Instalador corrigido e testado pelo responsável em 10/11/2026.** Substitui integralmente o BE-ACE anterior, com backup fora das extensões ativas e restauração em falha. Os outros plugins são preservados.
 
-[Download direto: BE-ACE-V01.zip](https://github.com/danielfbarreto-crypto/barreto-plugins-distribuicao/releases/download/BE-ACE-V01/BE-ACE-V01.zip)
+[Download direto: BE-ACE-V02.zip](https://github.com/danielfbarreto-crypto/barreto-plugins-distribuicao/releases/download/BE-ACE-V02/BE-ACE-V02.zip)
+
+**Correção V02 — 12/11/2026:** resolvida a falha “Extensão do desenho inválida” ao exportar DWG com blocos vazios aninhados, preservando as entidades. Revisão funcional do exportador 2026.11.12.1, testada e aprovada pelo responsável.
+
+[Histórico: BE-ACE V01](https://github.com/danielfbarreto-crypto/barreto-plugins-distribuicao/releases/tag/BE-ACE-V01)
 
 ## Conheça os oito botões
 
@@ -24,49 +28,49 @@ Confira a máscara antes de aplicar modelagem. O projetista continua responsáve
 
 Seleciona portas, mostra a máscara e permite inverter o lado antes de aplicar o alerta no vão útil, a 10 cm. Preserva o alerta externo de banheiros; exclui portas de elevador.
 
-[A4 PDF](manuais/A4/Guia%20-%20Piso%20Alerta%20Porta%20-%20V01%20-%20A4.pdf) · [Mobile PDF](manuais/Mobile/Guia%20-%20Piso%20Alerta%20Porta%20-%20V01%20-%20Mobile.pdf)
+[A4 PDF](manuais/A4/Guia%20-%20Piso%20Alerta%20Porta%20-%20V02%20-%20A4.pdf) · [Mobile PDF](manuais/Mobile/Guia%20-%20Piso%20Alerta%20Porta%20-%20V02%20-%20Mobile.pdf)
 
 ### <img src="imagens/PisoAlertaElevador.png" width="44" height="44" alt=""> Piso Alerta Elevador
 
 Seleciona portas de elevador e apresenta as máscaras para conferir o lado. Aplica o alerta no vão útil, com afastamento de 25 cm.
 
-[A4 PDF](manuais/A4/Guia%20-%20Piso%20Alerta%20Elevador%20-%20V01%20-%20A4.pdf) · [Mobile PDF](manuais/Mobile/Guia%20-%20Piso%20Alerta%20Elevador%20-%20V01%20-%20Mobile.pdf)
+[A4 PDF](manuais/A4/Guia%20-%20Piso%20Alerta%20Elevador%20-%20V02%20-%20A4.pdf) · [Mobile PDF](manuais/Mobile/Guia%20-%20Piso%20Alerta%20Elevador%20-%20V02%20-%20Mobile.pdf)
 
 ### <img src="imagens/PisoAlertaEscada.png" width="44" height="44" alt=""> Piso Alerta Escada
 
 Seleciona escadas e apresenta as máscaras antes e depois dos lances atendidos. Usa afastamento de 25 cm e faixa conforme o tráfego; não insere em patamares intermediários.
 
-[A4 PDF](manuais/A4/Guia%20-%20Piso%20Alerta%20Escada%20-%20V01%20-%20A4.pdf) · [Mobile PDF](manuais/Mobile/Guia%20-%20Piso%20Alerta%20Escada%20-%20V01%20-%20Mobile.pdf)
+[A4 PDF](manuais/A4/Guia%20-%20Piso%20Alerta%20Escada%20-%20V02%20-%20A4.pdf) · [Mobile PDF](manuais/Mobile/Guia%20-%20Piso%20Alerta%20Escada%20-%20V02%20-%20Mobile.pdf)
 
 ### <img src="imagens/RotaAcessivelModelagem.png" width="44" height="44" alt=""> Rota Acessível
 
 Modela piso tátil direcional a partir das linhas de rota editáveis. Trata ramificações, mudanças de direção e alertas previstos, com prévia antes de aplicar.
 
-[A4 PDF](manuais/A4/Guia%20-%20Rota%20Acess%C3%ADvel%20-%20V01%20-%20A4.pdf) · [Mobile PDF](manuais/Mobile/Guia%20-%20Rota%20Acess%C3%ADvel%20-%20V01%20-%20Mobile.pdf)
+[A4 PDF](manuais/A4/Guia%20-%20Rota%20Acess%C3%ADvel%20-%20V02%20-%20A4.pdf) · [Mobile PDF](manuais/Mobile/Guia%20-%20Rota%20Acess%C3%ADvel%20-%20V02%20-%20Mobile.pdf)
 
 ### <img src="imagens/UnirAlertaRota.png" width="44" height="44" alt=""> Unir Alerta à Rota
 
 Identifica automaticamente ligações entre alertas e rotas. Mostra a prévia e aplica após confirmação, respeitando impedimentos como paredes, ambiguidades e falta de apoio.
 
-[A4 PDF](manuais/A4/Guia%20-%20Unir%20Alerta%20%C3%A0%20Rota%20-%20V01%20-%20A4.pdf) · [Mobile PDF](manuais/Mobile/Guia%20-%20Unir%20Alerta%20%C3%A0%20Rota%20-%20V01%20-%20Mobile.pdf)
+[A4 PDF](manuais/A4/Guia%20-%20Unir%20Alerta%20%C3%A0%20Rota%20-%20V02%20-%20A4.pdf) · [Mobile PDF](manuais/Mobile/Guia%20-%20Unir%20Alerta%20%C3%A0%20Rota%20-%20V02%20-%20Mobile.pdf)
 
 ### <img src="imagens/TabelaPisoTatil.png" width="44" height="44" alt=""> Tabela Piso Tátil
 
 Cria ou atualiza seis tabelas de Equipamento especial, filtradas somente por BE-CATEGORIA. As três de orçamento têm BE-ID e uma linha por elemento; as demais são consolidadas.
 
-[A4 PDF](manuais/A4/Guia%20-%20Tabela%20Piso%20T%C3%A1til%20-%20V01%20-%20A4.pdf) · [Mobile PDF](manuais/Mobile/Guia%20-%20Tabela%20Piso%20T%C3%A1til%20-%20V01%20-%20Mobile.pdf)
+[A4 PDF](manuais/A4/Guia%20-%20Tabela%20Piso%20T%C3%A1til%20-%20V02%20-%20A4.pdf) · [Mobile PDF](manuais/Mobile/Guia%20-%20Tabela%20Piso%20T%C3%A1til%20-%20V02%20-%20Mobile.pdf)
 
 ### <img src="imagens/LimparArquivo.png" width="44" height="44" alt=""> Limpar Arquivo
 
 Diagnostica os itens previstos para limpeza e apresenta um resumo antes de excluir. Protege a vista ativa e suas dependências. Confira a lista antes de confirmar.
 
-[A4 PDF](manuais/A4/Guia%20-%20Limpar%20Arquivo%20-%20V01%20-%20A4.pdf) · [Mobile PDF](manuais/Mobile/Guia%20-%20Limpar%20Arquivo%20-%20V01%20-%20Mobile.pdf)
+[A4 PDF](manuais/A4/Guia%20-%20Limpar%20Arquivo%20-%20V02%20-%20A4.pdf) · [Mobile PDF](manuais/Mobile/Guia%20-%20Limpar%20Arquivo%20-%20V02%20-%20Mobile.pdf)
 
 ### <img src="imagens/ExportarPDFDWG.png" width="44" height="44" alt=""> Exportar PDF e DWG
 
 Exporta pranchas selecionadas para PDF e DWG, com opções de nomes e agrupamento. Apresenta arquivos existentes antes de substituí-los; saída organizada em Acessibilidade.
 
-[A4 PDF](manuais/A4/Guia%20-%20Exportar%20PDF%20e%20DWG%20-%20V01%20-%20A4.pdf) · [Mobile PDF](manuais/Mobile/Guia%20-%20Exportar%20PDF%20e%20DWG%20-%20V01%20-%20Mobile.pdf)
+[A4 PDF](manuais/A4/Guia%20-%20Exportar%20PDF%20e%20DWG%20-%20V02%20-%20A4.pdf) · [Mobile PDF](manuais/Mobile/Guia%20-%20Exportar%20PDF%20e%20DWG%20-%20V02%20-%20Mobile.pdf)
 
 ## Dados preenchidos na modelagem
 
@@ -75,7 +79,7 @@ Exporta pranchas selecionadas para PDF e DWG, com opções de nomes e agrupament
 - **BE-INFO:** parâmetro compartilhado oculto, com “Modelado com Propriedade Intelectual Barreto Engenharia”, nos elementos criados ou atualizados pelas rotinas de modelagem.
 - **Categoria:** Equipamento especial para as famílias oficiais e tabelas de piso tátil.
 
-Os nomes dos manuais usam V01, igual ao instalador distribuído. O conteúdo preserva as referências funcionais internas aprovadas. As orientações comuns desta homologação estão também no **COMECE-AQUI.txt** do ZIP. As famílias ficam na base corporativa, fora deste pacote.
+Os nomes dos manuais usam V02, igual ao instalador distribuído. O conteúdo preserva as referências funcionais internas aprovadas. As orientações comuns desta homologação estão também no **COMECE-AQUI.txt** do ZIP. As famílias ficam na base corporativa, fora deste pacote.
 
 [Conferir versão e integridade](versao.json)
 
